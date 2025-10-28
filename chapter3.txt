@@ -4,7 +4,10 @@ git status
 git add chapter1.txt
 git commit -m "Complete Chapter1"
 git log
-
+clear
 
 ----add un-staged files the Chapter 2 and Chapter 3
 git status -->to see the files still in working directory
+git add .  -->to specify everything in the current directory
+git status -->you'll see that those files are now in the staging area
+clear --> to clear the terminal
