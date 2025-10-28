@@ -1,0 +1,10 @@
+Summary:
+git init 
+git status
+git add chapter1.txt
+git commit -m "Complete Chapter1"
+git log
+
+
+----add un-staged files the Chapter 2 and Chapter 3
+git status -->to see the files still in working directory

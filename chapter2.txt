@@ -1,0 +1,10 @@
+We are in Chapter 2. Done with the initialization of git.
+From working directory goes to the staging area using git add <filename>
+After that committed it using git commit -m "Complete Chapter 1"
+to see if logs of commited files use git logs
+
+git init 
+git status
+git add chapter1.txt
+git commit -m "Complete Chapter1"
+git log
